@@ -2,5 +2,5 @@
 - 👀 I’m interested in Web Development and RPA
 - 🌱 I’m currently specializing in python and web development
 - 📫 How to reach me:
--       Linkedin: www.linkedin.com/in/vinnicius-martins
+-       Linkedin: https://www.linkedin.com/in/vinnicius-martins/
 -       Email: vinnicius.o.martins@gmail.com
