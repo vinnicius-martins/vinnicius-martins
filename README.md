@@ -18,7 +18,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 <p align="left">
-  💼 Outras Tecnologias: <strong>React Native | Django | Metodologias Ágeis | SQL | NoSQL | MySQL | Oracle | Postgresql | RPA | Selenium | Styled Components | VBA.</strong>
+  <strong>And... React Native | Django | Metodologias Ágeis | SQL | NoSQL | MySQL | Oracle | Postgresql | RPA | Selenium | Styled Components | VBA.</strong>
 </p>
 
 <h3 align="left">Connect with me!</h3>
