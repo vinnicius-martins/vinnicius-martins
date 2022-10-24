@@ -4,6 +4,13 @@
    <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I+am+Vinnicius+Martins;Full+Stack+Web+Developer;It+is+a+Pleasure&center=true&width=380&height=45">
 </p>
 
+### 👋 About me:
+
+- 📚 Studying development since 2016
+- 🚀 Improving my knowledge of <strong>ReactJS and React Native</strong>
+
+### ⚡ Technologies
+
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
@@ -21,10 +28,10 @@
   <strong>And... React Native | Django | Metodologias Ágeis | SQL | NoSQL | MySQL | Oracle | Postgresql | RPA | Selenium | Styled Components | VBA.</strong>
 </p>
 
-<h3 align="left">Connect with me!</h3>
+### 📧 Connect with me!
 <p align="left">
   <a target="_blank" href="mailto:vinnicius.o.martins@gmail.com">
-    <img align="left" alt="Gmail" width="40" src="https://img.icons8.com/color/48/000000/gmail--v2.png" />
+    <img align="left" alt="Gmail" height="40" width="40" src="https://img.icons8.com/color/48/000000/gmail--v2.png" />
   </a>
    <a href="https://www.linkedin.com/in/vinnicius-martins/" target="_blank"><img align="left"
       src="https://img.icons8.com/color/48/000000/linkedin.png"
