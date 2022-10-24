@@ -25,7 +25,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 <p align="left">
-  <strong>And... React Native | Django | Metodologias Ágeis | SQL | NoSQL | MySQL | Oracle | Postgresql | RPA | Selenium | Styled Components | VBA.</strong>
+  <strong>And... React Native | Django | Agile Methodologies | SQL | NoSQL | MySQL | Oracle | PostgreSQL | RPA | Selenium | Styled Components | VBA.</strong>
 </p>
 
 ### 📧 Connect with me!
