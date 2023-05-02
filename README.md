@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I+am+Vinnicius+Martins;Full+Stack+Web+Developer;It+is+a+Pleasure&width=380&height=45">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I+am+Vinnicius+Martins;Full+Stack+Developer;It+is+a+Pleasure&width=380&height=45">
 </p>
 
 Portfolio: https://vinnicius-martins-portifolio.vercel.app/
