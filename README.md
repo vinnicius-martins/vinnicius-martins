@@ -28,7 +28,7 @@ Portfolio: https://vinnicius-martins-portifolio.vercel.app/
 </p>
 
 <p align="left">
-  <strong>And... React Native | Django | Agile Methodologies | SQL | NoSQL | MySQL | Oracle | PostgreSQL | RPA | Selenium | Styled Components | VBA.</strong>
+  <strong>And... React Native | Express | NestJS | Next | Django | Agile Methodologies | SQL | NoSQL | MySQL | Oracle | PostgreSQL | RPA | Selenium | Styled Components | VBA.</strong>
 </p>
 
 ### 📧 Connect with me!
